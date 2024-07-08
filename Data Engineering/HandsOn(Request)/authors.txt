@@ -1,0 +1,200 @@
+Albert Einstein
+J.K. Rowling
+Albert Einstein
+Jane Austen
+Marilyn Monroe
+Albert Einstein
+André Gide
+Thomas A. Edison
+Eleanor Roosevelt
+Steve Martin
+Marilyn Monroe
+J.K. Rowling
+Albert Einstein
+Bob Marley
+Dr. Seuss
+Douglas Adams
+Elie Wiesel
+Friedrich Nietzsche
+Mark Twain
+Allen Saunders
+Pablo Neruda
+Ralph Waldo Emerson
+Mother Teresa
+Garrison Keillor
+Jim Henson
+Dr. Seuss
+Albert Einstein
+J.K. Rowling
+Albert Einstein
+Bob Marley
+Dr. Seuss
+J.K. Rowling
+Bob Marley
+Mother Teresa
+J.K. Rowling
+Charles M. Schulz
+William Nicholson
+Albert Einstein
+Jorge Luis Borges
+George Eliot
+George R.R. Martin
+C.S. Lewis
+Marilyn Monroe
+Marilyn Monroe
+Albert Einstein
+Marilyn Monroe
+Marilyn Monroe
+Martin Luther King Jr.
+J.K. Rowling
+James Baldwin
+Jane Austen
+Eleanor Roosevelt
+Marilyn Monroe
+Albert Einstein
+Haruki Murakami
+Alexandre Dumas fils
+Stephenie Meyer
+Ernest Hemingway
+Helen Keller
+George Bernard Shaw
+Charles Bukowski
+Suzanne Collins
+Suzanne Collins
+C.S. Lewis
+J.R.R. Tolkien
+J.K. Rowling
+Ernest Hemingway
+Ralph Waldo Emerson
+Mark Twain
+Dr. Seuss
+Alfred Tennyson
+Charles Bukowski
+Terry Pratchett
+Dr. Seuss
+J.D. Salinger
+George Carlin
+John Lennon
+W.C. Fields
+Ayn Rand
+Mark Twain
+Albert Einstein
+Jane Austen
+J.K. Rowling
+Jane Austen
+Jane Austen
+C.S. Lewis
+C.S. Lewis
+Mark Twain
+Mark Twain
+C.S. Lewis
+J.K. Rowling
+Jimi Hendrix
+J.M. Barrie
+E.E. Cummings
+Khaled Hosseini
+Harper Lee
+Madeleine L&#39;Engle
+Mark Twain
+Dr. Seuss
+George R.R. Martin
+('<span class="text" itemprop="text">“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”</span>', ',', 'The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.')
+('<span class="text" itemprop="text">“It is our choices, Harry, that show what we truly are, far more than our abilities.”</span>', ',', 'It is our choices, Harry, that show what we truly are, far more than our abilities.')
+('<span class="text" itemprop="text">“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”</span>', ',', 'There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.')
+('<span class="text" itemprop="text">“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”</span>', ',', 'The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.')
+('<span class="text" itemprop="text">“Imperfection is beauty, madness is genius and it&#39;s better to be absolutely ridiculous than absolutely boring.”</span>', ',', 'Imperfection is beauty, madness is genius and it&#39;s better to be absolutely ridiculous than absolutely boring.')
+('<span class="text" itemprop="text">“Try not to become a man of success. Rather become a man of value.”</span>', ',', 'Try not to become a man of success. Rather become a man of value.')
+('<span class="text" itemprop="text">“It is better to be hated for what you are than to be loved for what you are not.”</span>', ',', 'It is better to be hated for what you are than to be loved for what you are not.')
+('<span class="text" itemprop="text">“I have not failed. I&#39;ve just found 10,000 ways that won&#39;t work.”</span>', ',', 'I have not failed. I&#39;ve just found 10,000 ways that won&#39;t work.')
+('<span class="text" itemprop="text">“A woman is like a tea bag; you never know how strong it is until it&#39;s in hot water.”</span>', ',', 'A woman is like a tea bag; you never know how strong it is until it&#39;s in hot water.')
+('<span class="text" itemprop="text">“A day without sunshine is like, you know, night.”</span>', ',', 'A day without sunshine is like, you know, night.')
+('<span class="text" itemprop="text">“This life is what you make it. No matter what, you&#39;re going to mess up sometimes, it&#39;s a universal truth. But the good part is you get to decide how you&#39;re going to mess it up. Girls will be your friends - they&#39;ll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they&#39;re your true best friends. Don&#39;t let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they&#39;ll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can&#39;t give up because if you give up, you&#39;ll never find your soulmate. You&#39;ll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn&#39;t mean you&#39;re gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don&#39;t, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life&#39;s a beautiful thing and there&#39;s so much to smile about.”</span>', ',', 'This life is what you make it. No matter what, you&#39;re going to mess up sometimes, it&#39;s a universal truth. But the good part is you get to decide how you&#39;re going to mess it up. Girls will be your friends - they&#39;ll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they&#39;re your true best friends. Don&#39;t let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they&#39;ll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can&#39;t give up because if you give up, you&#39;ll never find your soulmate. You&#39;ll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn&#39;t mean you&#39;re gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don&#39;t, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life&#39;s a beautiful thing and there&#39;s so much to smile about.')
+('<span class="text" itemprop="text">“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”</span>', ',', 'It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.')
+('<span class="text" itemprop="text">“If you can&#39;t explain it to a six year old, you don&#39;t understand it yourself.”</span>', ',', 'If you can&#39;t explain it to a six year old, you don&#39;t understand it yourself.')
+('<span class="text" itemprop="text">“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She&#39;s not perfect—you aren&#39;t either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don&#39;t hurt her, don&#39;t change her, don&#39;t analyze and don&#39;t expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she&#39;s not there.”</span>', ',', 'You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She&#39;s not perfect—you aren&#39;t either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don&#39;t hurt her, don&#39;t change her, don&#39;t analyze and don&#39;t expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she&#39;s not there.')
+('<span class="text" itemprop="text">“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”</span>', ',', 'I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.')
+('<span class="text" itemprop="text">“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”</span>', ',', 'I may not have gone where I intended to go, but I think I have ended up where I needed to be.')
+('<span class="text" itemprop="text">“The opposite of love is not hate, it&#39;s indifference. The opposite of art is not ugliness, it&#39;s indifference. The opposite of faith is not heresy, it&#39;s indifference. And the opposite of life is not death, it&#39;s indifference.”</span>', ',', 'The opposite of love is not hate, it&#39;s indifference. The opposite of art is not ugliness, it&#39;s indifference. The opposite of faith is not heresy, it&#39;s indifference. And the opposite of life is not death, it&#39;s indifference.')
+('<span class="text" itemprop="text">“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”</span>', ',', 'It is not a lack of love, but a lack of friendship that makes unhappy marriages.')
+('<span class="text" itemprop="text">“Good friends, good books, and a sleepy conscience: this is the ideal life.”</span>', ',', 'Good friends, good books, and a sleepy conscience: this is the ideal life.')
+('<span class="text" itemprop="text">“Life is what happens to us while we are making other plans.”</span>', ',', 'Life is what happens to us while we are making other plans.')
+('<span class="text" itemprop="text">“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”</span>', ',', 'I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.')
+('<span class="text" itemprop="text">“For every minute you are angry you lose sixty seconds of happiness.”</span>', ',', 'For every minute you are angry you lose sixty seconds of happiness.')
+('<span class="text" itemprop="text">“If you judge people, you have no time to love them.”</span>', ',', 'If you judge people, you have no time to love them.')
+('<span class="text" itemprop="text">“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”</span>', ',', 'Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.')
+('<span class="text" itemprop="text">“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”</span>', ',', 'Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.')
+('<span class="text" itemprop="text">“Today you are You, that is truer than true. There is no one alive who is Youer than You.”</span>', ',', 'Today you are You, that is truer than true. There is no one alive who is Youer than You.')
+('<span class="text" itemprop="text">“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”</span>', ',', 'If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.')
+('<span class="text" itemprop="text">“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”</span>', ',', 'It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.')
+('<span class="text" itemprop="text">“Logic will get you from A to Z; imagination will get you everywhere.”</span>', ',', 'Logic will get you from A to Z; imagination will get you everywhere.')
+('<span class="text" itemprop="text">“One good thing about music, when it hits you, you feel no pain.”</span>', ',', 'One good thing about music, when it hits you, you feel no pain.')
+('<span class="text" itemprop="text">“The more that you read, the more things you will know. The more that you learn, the more places you&#39;ll go.”</span>', ',', 'The more that you read, the more things you will know. The more that you learn, the more places you&#39;ll go.')
+('<span class="text" itemprop="text">“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”</span>', ',', 'Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?')
+('<span class="text" itemprop="text">“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”</span>', ',', 'The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.')
+('<span class="text" itemprop="text">“Not all of us can do great things. But we can do small things with great love.”</span>', ',', 'Not all of us can do great things. But we can do small things with great love.')
+('<span class="text" itemprop="text">“To the well-organized mind, death is but the next great adventure.”</span>', ',', 'To the well-organized mind, death is but the next great adventure.')
+('<span class="text" itemprop="text">“All you need is love. But a little chocolate now and then doesn&#39;t hurt.”</span>', ',', 'All you need is love. But a little chocolate now and then doesn&#39;t hurt.')
+('<span class="text" itemprop="text">“We read to know we&#39;re not alone.”</span>', ',', 'We read to know we&#39;re not alone.')
+('<span class="text" itemprop="text">“Any fool can know. The point is to understand.”</span>', ',', 'Any fool can know. The point is to understand.')
+('<span class="text" itemprop="text">“I have always imagined that Paradise will be a kind of library.”</span>', ',', 'I have always imagined that Paradise will be a kind of library.')
+('<span class="text" itemprop="text">“It is never too late to be what you might have been.”</span>', ',', 'It is never too late to be what you might have been.')
+('<span class="text" itemprop="text">“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”</span>', ',', 'A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.')
+('<span class="text" itemprop="text">“You can never get a cup of tea large enough or a book long enough to suit me.”</span>', ',', 'You can never get a cup of tea large enough or a book long enough to suit me.')
+('<span class="text" itemprop="text">“You believe lies so you eventually learn to trust no one but yourself.”</span>', ',', 'You believe lies so you eventually learn to trust no one but yourself.')
+('<span class="text" itemprop="text">“If you can make a woman laugh, you can make her do anything.”</span>', ',', 'If you can make a woman laugh, you can make her do anything.')
+('<span class="text" itemprop="text">“Life is like riding a bicycle. To keep your balance, you must keep moving.”</span>', ',', 'Life is like riding a bicycle. To keep your balance, you must keep moving.')
+('<span class="text" itemprop="text">“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”</span>', ',', 'The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.')
+('<span class="text" itemprop="text">“A wise girl kisses but doesn&#39;t love, listens but doesn&#39;t believe, and leaves before she is left.”</span>', ',', 'A wise girl kisses but doesn&#39;t love, listens but doesn&#39;t believe, and leaves before she is left.')
+('<span class="text" itemprop="text">“Only in the darkness can you see the stars.”</span>', ',', 'Only in the darkness can you see the stars.')
+('<span class="text" itemprop="text">“It matters not what someone is born, but what they grow to be.”</span>', ',', 'It matters not what someone is born, but what they grow to be.')
+('<span class="text" itemprop="text">“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”</span>', ',', 'Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.')
+('<span class="text" itemprop="text">“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”</span>', ',', 'There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.')
+('<span class="text" itemprop="text">“Do one thing every day that scares you.”</span>', ',', 'Do one thing every day that scares you.')
+('<span class="text" itemprop="text">“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”</span>', ',', 'I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.')
+('<span class="text" itemprop="text">“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”</span>', ',', 'If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.')
+('<span class="text" itemprop="text">“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”</span>', ',', 'If you only read the books that everyone else is reading, you can only think what everyone else is thinking.')
+('<span class="text" itemprop="text">“The difference between genius and stupidity is: genius has its limits.”</span>', ',', 'The difference between genius and stupidity is: genius has its limits.')
+('<span class="text" itemprop="text">“He&#39;s like a drug for you, Bella.”</span>', ',', 'He&#39;s like a drug for you, Bella.')
+('<span class="text" itemprop="text">“There is no friend as loyal as a book.”</span>', ',', 'There is no friend as loyal as a book.')
+('<span class="text" itemprop="text">“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”</span>', ',', 'When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.')
+('<span class="text" itemprop="text">“Life isn&#39;t about finding yourself. Life is about creating yourself.”</span>', ',', 'Life isn&#39;t about finding yourself. Life is about creating yourself.')
+('<span class="text" itemprop="text">“That&#39;s the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”</span>', ',', 'That&#39;s the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.')
+('<span class="text" itemprop="text">“You don’t forget the face of the person who was your last hope.”</span>', ',', 'You don’t forget the face of the person who was your last hope.')
+('<span class="text" itemprop="text">“Remember, we&#39;re madly in love, so it&#39;s all right to kiss me anytime you feel like it.”</span>', ',', 'Remember, we&#39;re madly in love, so it&#39;s all right to kiss me anytime you feel like it.')
+('<span class="text" itemprop="text">“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”</span>', ',', 'To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.')
+('<span class="text" itemprop="text">“Not all those who wander are lost.”</span>', ',', 'Not all those who wander are lost.')
+('<span class="text" itemprop="text">“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”</span>', ',', 'Do not pity the dead, Harry. Pity the living, and, above all those who live without love.')
+('<span class="text" itemprop="text">“There is nothing to writing. All you do is sit down at a typewriter and bleed.”</span>', ',', 'There is nothing to writing. All you do is sit down at a typewriter and bleed.')
+('<span class="text" itemprop="text">“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”</span>', ',', 'Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.')
+('<span class="text" itemprop="text">“I have never let my schooling interfere with my education.”</span>', ',', 'I have never let my schooling interfere with my education.')
+('<span class="text" itemprop="text">“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I&#39;ve bought a big bat. I&#39;m all ready you see. Now my troubles are going to have troubles with me!”</span>', ',', 'I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I&#39;ve bought a big bat. I&#39;m all ready you see. Now my troubles are going to have troubles with me!')
+('<span class="text" itemprop="text">“If I had a flower for every time I thought of you...I could walk through my garden forever.”</span>', ',', 'If I had a flower for every time I thought of you...I could walk through my garden forever.')
+('<span class="text" itemprop="text">“Some people never go crazy. What truly horrible lives they must lead.”</span>', ',', 'Some people never go crazy. What truly horrible lives they must lead.')
+('<span class="text" itemprop="text">“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”</span>', ',', 'The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.')
+('<span class="text" itemprop="text">“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”</span>', ',', 'Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!')
+('<span class="text" itemprop="text">“What really knocks me out is a book that, when you&#39;re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn&#39;t happen much, though.”</span>', ',', 'What really knocks me out is a book that, when you&#39;re all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn&#39;t happen much, though.')
+('<span class="text" itemprop="text">“The reason I talk to myself is because I’m the only one whose answers I accept.”</span>', ',', 'The reason I talk to myself is because I’m the only one whose answers I accept.')
+('<span class="text" itemprop="text">“You may say I&#39;m a dreamer, but I&#39;m not the only one. I hope someday you&#39;ll join us. And the world will live as one.”</span>', ',', 'You may say I&#39;m a dreamer, but I&#39;m not the only one. I hope someday you&#39;ll join us. And the world will live as one.')
+('<span class="text" itemprop="text">“I am free of all prejudice. I hate everyone equally. ”</span>', ',', 'I am free of all prejudice. I hate everyone equally.')
+('<span class="text" itemprop="text">“The question isn&#39;t who is going to let me; it&#39;s who is going to stop me.”</span>', ',', 'The question isn&#39;t who is going to let me; it&#39;s who is going to stop me.')
+('<span class="text" itemprop="text">“′Classic′ - a book which people praise and don&#39;t read.”</span>', ',', '′Classic′ - a book which people praise and don&#39;t read.')
+('<span class="text" itemprop="text">“Anyone who has never made a mistake has never tried anything new.”</span>', ',', 'Anyone who has never made a mistake has never tried anything new.')
+('<span class="text" itemprop="text">“A lady&#39;s imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”</span>', ',', 'A lady&#39;s imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.')
+('<span class="text" itemprop="text">“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”</span>', ',', 'Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.')
+('<span class="text" itemprop="text">“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”</span>', ',', 'I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.')
+('<span class="text" itemprop="text">“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”</span>', ',', 'There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.')
+('<span class="text" itemprop="text">“Some day you will be old enough to start reading fairy tales again.”</span>', ',', 'Some day you will be old enough to start reading fairy tales again.')
+('<span class="text" itemprop="text">“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”</span>', ',', 'We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.')
+('<span class="text" itemprop="text">“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”</span>', ',', 'The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.')
+('<span class="text" itemprop="text">“A lie can travel half way around the world while the truth is putting on its shoes.”</span>', ',', 'A lie can travel half way around the world while the truth is putting on its shoes.')
+('<span class="text" itemprop="text">“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”</span>', ',', 'I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.')
+('<span class="text" itemprop="text">“The truth.&#34; Dumbledore sighed. &#34;It is a beautiful and terrible thing, and should therefore be treated with great caution.”</span>', ',', 'The truth.&#34; Dumbledore sighed. &#34;It is a beautiful and terrible thing, and should therefore be treated with great caution.')
+('<span class="text" itemprop="text">“I&#39;m the one that&#39;s got to die when it&#39;s time for me to die, so let me live my life the way I want to.”</span>', ',', 'I&#39;m the one that&#39;s got to die when it&#39;s time for me to die, so let me live my life the way I want to.')
+('<span class="text" itemprop="text">“To die will be an awfully big adventure.”</span>', ',', 'To die will be an awfully big adventure.')
+('<span class="text" itemprop="text">“It takes courage to grow up and become who you really are.”</span>', ',', 'It takes courage to grow up and become who you really are.')
+('<span class="text" itemprop="text">“But better to get hurt by the truth than comforted with a lie.”</span>', ',', 'But better to get hurt by the truth than comforted with a lie.')
+('<span class="text" itemprop="text">“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”</span>', ',', 'You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.')
+('<span class="text" itemprop="text">“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”</span>', ',', 'You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.')
+('<span class="text" itemprop="text">“Never tell the truth to people who are not worthy of it.”</span>', ',', 'Never tell the truth to people who are not worthy of it.')
+('<span class="text" itemprop="text">“A person&#39;s a person, no matter how small.”</span>', ',', 'A person&#39;s a person, no matter how small.')
+('<span class="text" itemprop="text">“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”</span>', ',', '... a mind needs books as a sword needs a whetstone, if it is to keep its edge.')
